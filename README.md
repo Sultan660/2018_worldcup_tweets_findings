@@ -28,7 +28,9 @@ The notebook available here showcases work related to the above questions.
 
 ## Results<a name="results"></a>
 
-The main business findings are discussed on the blog [here](https://sultands.home.blog/2020/01/01/2018-world-cup-tweets-findings/).
+The study shows that #Fra is the most hashtag mentioned, which seems logic because it won by France. Besides, the number of followers can play a good role in getting high likes but it is not always, the key on getting high likes is fans. While, Nigeria nation shows a great interest on the 2018 world cup.
+
+For more details please refere to the business findings discussed on the blog [here](https://sultands.home.blog/2020/01/01/2018-world-cup-tweets-findings/).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
